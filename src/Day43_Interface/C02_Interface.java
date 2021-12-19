@@ -1,4 +1,4 @@
-package Day43_Interface;
+package day43_Interface;
 
 public interface C02_Interface {
 	

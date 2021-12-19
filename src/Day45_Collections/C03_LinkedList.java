@@ -1,4 +1,4 @@
-package Day45_Collections;
+package day45_Collections;
 
 import java.util.LinkedList;
 

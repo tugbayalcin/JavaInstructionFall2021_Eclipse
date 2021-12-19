@@ -1,4 +1,4 @@
-package Day42_Abstraction;
+package day42_Abstraction;
 
 public class Isci extends Muhasebe {
 

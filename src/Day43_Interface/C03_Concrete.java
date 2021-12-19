@@ -1,4 +1,4 @@
-package Day43_Interface;
+package day43_Interface;
 
 public class C03_Concrete implements C02_Interface {
 	
