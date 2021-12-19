@@ -19,7 +19,9 @@ public class C02_LinkedList {
 		System.out.println(ll);
 		
 		// ancak List interfaceinin methodlarini override eden LinkedList oldugundan:  method List'ten, calistiran LinkedList olur
+		
 		ll.add(9);
+		
 		// data turunu List sectigimiz icin sadece List interface'indeki methodlari kullanabiliriz
 		// LinkedList classinda override ettigimiz icin List interface olmasina ragmen List methodlarini kullanabildik
 		

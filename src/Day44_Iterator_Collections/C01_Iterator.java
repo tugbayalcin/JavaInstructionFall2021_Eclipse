@@ -44,7 +44,7 @@ public class C01_Iterator {
 		
 		
 		// foreach loop ile index kullanmadan tum elementlere ulasabiliyoruz  ancak kalici degisiklik yapamiyoruz
-		//
+		
 		
 		
 

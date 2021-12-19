@@ -13,5 +13,6 @@ public abstract class C01_AbstractClass {
 	C01_AbstractClass(){} // default constructor yerine olusturdugumuz parametresiz constructor
 	
 	public abstract void method();
+	
 
 }
