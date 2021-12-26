@@ -37,7 +37,6 @@ public class C01_LinkedList {
 		
 		
 		
-		
 	}
 
 }

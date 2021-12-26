@@ -10,6 +10,7 @@ public class C02_Iterator {
 		
 
 		List <Integer> liste = new ArrayList<>();
+		List  liste1 = new ArrayList();
 		
 		liste.add(5);
 		liste.add(3);
